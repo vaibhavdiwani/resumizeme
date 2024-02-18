@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vaibhavdiwani/resumizeme/static/css/main.bead02bb.css",
+    "main.js": "/vaibhavdiwani/resumizeme/static/js/main.26f8f77a.js",
+    "static/js/453.a612f2a2.chunk.js": "/vaibhavdiwani/resumizeme/static/js/453.a612f2a2.chunk.js",
+    "static/media/user-big.svg": "/vaibhavdiwani/resumizeme/static/media/user-big.6bf6cccae367caad16e007a8e95fcc09.svg",
+    "static/media/user.svg": "/vaibhavdiwani/resumizeme/static/media/user.6222e60f71509dfbde6a021a2fc448a8.svg",
+    "static/media/Resumizeme.svg": "/vaibhavdiwani/resumizeme/static/media/Resumizeme.8fb3bb0d0f44a85015208f9be44e1331.svg",
+    "static/media/career.svg": "/vaibhavdiwani/resumizeme/static/media/career.ce793656961e8cb5c35aa219050dd26d.svg",
+    "static/media/settings.svg": "/vaibhavdiwani/resumizeme/static/media/settings.5a4b3477299d8bdb8915ffc552b46f81.svg",
+    "index.html": "/vaibhavdiwani/resumizeme/index.html",
+    "static/media/past-template.svg": "/vaibhavdiwani/resumizeme/static/media/past-template.0f7bd3b4095dd88361d23675c75b0644.svg",
+    "static/media/green-tick.svg": "/vaibhavdiwani/resumizeme/static/media/green-tick.d5328c04efed6ee8fe7cf9deae6c2e1b.svg",
+    "static/media/search.svg": "/vaibhavdiwani/resumizeme/static/media/search.881037a5658065eb5bfaf9727c4aec46.svg",
+    "static/media/my-templates.svg": "/vaibhavdiwani/resumizeme/static/media/my-templates.c96164f678df2a4f877d2471efd3b377.svg",
+    "static/media/my-boards.svg": "/vaibhavdiwani/resumizeme/static/media/my-boards.68d4d506a5312533462c1ec6fc430708.svg",
+    "static/media/mini-add.svg": "/vaibhavdiwani/resumizeme/static/media/mini-add.5ad966fd0aada87e6b147b8214f91418.svg",
+    "main.bead02bb.css.map": "/vaibhavdiwani/resumizeme/static/css/main.bead02bb.css.map",
+    "main.26f8f77a.js.map": "/vaibhavdiwani/resumizeme/static/js/main.26f8f77a.js.map",
+    "453.a612f2a2.chunk.js.map": "/vaibhavdiwani/resumizeme/static/js/453.a612f2a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bead02bb.css",
+    "static/js/main.26f8f77a.js"
+  ]
+}
