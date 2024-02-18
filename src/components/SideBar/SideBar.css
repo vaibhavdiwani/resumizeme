@@ -1,0 +1,15 @@
+.sideBar {
+  width: 240px;
+}
+
+.menuTitle {
+  color: #14141f;
+}
+
+.menuItemTitle {
+  color: #4c4c55;
+}
+
+.sideBarMenus {
+  max-height: calc(100% - 49px - 65px);
+}

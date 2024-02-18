@@ -1,0 +1,24 @@
+.personalInformationTitle {
+  color: #14141f;
+  font-size: 1.5rem;
+  line-height: 1.875rem;
+}
+
+.notificationDisclaimerText {
+  color: #4c4c55;
+  font-size: 0.9375rem;
+  line-height: 1.375rem;
+}
+
+.saveButton {
+  width: 170px;
+  height: 40px;
+  background-color: #1688fe;
+  font-size: 0.9375rem;
+  line-height: 1.375rem;
+}
+
+.hirethesbestDisclaimer {
+  font-size: 0.8125rem;
+  line-height: 1.25rem;
+}
